@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PriceTicker": {
+      "commandName": "Project",
+      "commandLineArgs": "Stock2"
+    }
+  }
+}
